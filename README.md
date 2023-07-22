@@ -1,3 +1,3 @@
 # garbagepatch_ai_recognizer
 An artificial inteligence to recognize trash in the ocean water.
-Will upload de code!
+Will upload the code!
